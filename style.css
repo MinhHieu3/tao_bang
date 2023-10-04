@@ -1,0 +1,23 @@
+table,th,tr,td{
+    border-collapse: collapse;
+    font-size: 14px;
+    text-align: center;
+    border: 1px solid black ;
+    padding: 8px;
+
+}
+table{
+    width: 100%;
+    font-family: arial, sans-serif;
+}
+th{
+    font-size: 16px;
+    color: white;
+    background-color: red;
+    border: 1px solid white;
+    padding: 20px;
+    font-weight: 400;
+}
+td{
+    padding: 20px 20px 20px 20px;
+}
